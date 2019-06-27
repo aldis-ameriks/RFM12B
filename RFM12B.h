@@ -132,7 +132,7 @@
   #define SS_DDR      DDRB
   #define SS_PORT     PORTB
   #define SS_BIT      2     // for PORTB: 2 = d.10, 1 = d.9, 0 = d.8
-  #define SPI_SS      10    // PB2, pin 16
+  #define SPI_SS      9    // PB2, pin 16
   #define SPI_MOSI    11    // PB3, pin 17
   #define SPI_MISO    12    // PB4, pin 18
   #define SPI_SCK     13    // PB5, pin 19
